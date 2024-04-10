@@ -50,5 +50,3 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          echo Add other actions to build,
-          echo test, and deploy your project.
