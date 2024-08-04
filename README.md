@@ -5,18 +5,6 @@
 <h1 align="center"> Hi There 👋, I'm Ggwepq✨</h3> 
 <h3 align="center">💻A student who likes programming and films💻🎥</h3><br/>
 
-<div align="center">
- 
- 🛒 I’m currently working on **an Ecommerce Website**
- 
- ⭕ I’m currently learning **Laravel, Vue, Tailwind**
-
-😎 I am very good at **Java & Unity Engine**
-
-🐱‍🏍 My hobbies are **Programming, Eating, Video Editing, & Sleeping**
-
- </div>
-
 <div align="center"> 
   <a href="mailto:ggwepq@mail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
