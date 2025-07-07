@@ -5,7 +5,7 @@ Always eager to **tackle challenging problems**, **learn new technologies**, and
 
 - 🎓 I'm currently a student at [**SPCC**](https://spcc.edu.ph).
 - 🔨 Working on various **School Projects**.
-- 🔧 I enjoy tinkering with my [**setup**](#) to make them more awesome.
+- 🔧 I enjoy tinkering with my [**setup**](https://github.com/Ggwepq/dotfiles) to make them more awesome.
 
 ## 🛠️ Skills & Technologies
 
