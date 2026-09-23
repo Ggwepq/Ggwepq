@@ -9,7 +9,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johncedricabaloyan28@gmail.com)
 [![lastfm](https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastfm&logoColor=white)](https://www.last.fm/user/Ggwepq)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ggwepq604)
-[![portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=polywork&logoColor=white)](https://cedjuani.vercel.app)
+[![portfolio](https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=polywork&logoColor=white)](https://cedjuani.dev)
   
 </div>
 
